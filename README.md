@@ -7,9 +7,10 @@
 I build the business systems companies run on every day —<br/>
 **accounting & finance · commerce & operations · school management · central kitchens & meal subscriptions**
 
-![Company](https://img.shields.io/badge/Company-Trullim%20Soft-0A66C2?style=flat-square)
-![Location](https://img.shields.io/badge/Based%20in-Palestine-2E7D32?style=flat-square&logo=googlemaps&logoColor=white)
+[![Company](https://img.shields.io/badge/Working%20at-Winch-F7941D?style=flat-square)](https://winch.sa/ar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mousab--majed-0A66C2?style=flat-square)](https://www.linkedin.com/in/mousab-majed/)
 [![Email](https://img.shields.io/badge/mousabsalaham%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mousabsalaham@gmail.com)
+![Location](https://img.shields.io/badge/Based%20in-Palestine-2E7D32?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -17,7 +18,7 @@ I build the business systems companies run on every day —<br/>
 
 ### 👋 About me
 
-- 💼 Software engineer at **Trullim Soft**, based in Palestine
+- 💼 Software engineer at **[Winch](https://winch.sa/ar/)**, based in Palestine
 - 🧾 I work where the numbers have to add up — ledgers, invoices, subscriptions, schedules, and the reports built on top of them
 - 🚀 **1,500+ merged pull requests** across production SaaS codebases since 2021
 - 🌍 Open-source contributor to the Laravel / PHP ecosystem
