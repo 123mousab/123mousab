@@ -21,7 +21,7 @@ I build the business systems companies run on every day —<br/>
 - 💼 Software engineer at **[Winch](https://winch.sa/ar/)**, based in Palestine
 - 🧾 I work where the numbers have to add up — ledgers, invoices, subscriptions, schedules, and the reports built on top of them
 - 🚀 **1,500+ merged pull requests** across production SaaS codebases since 2021
-- 🌍 Open-source contributor to the Laravel / PHP ecosystem
+- 🌍 Open-source contributor to **[Carbon](https://github.com/briannesbitt/Carbon)**, PHP's most downloaded date library, and the Laravel ecosystem
 - 🌐 Arabic & English · RTL-first interfaces
 
 ### 🏗️ What I build
@@ -61,6 +61,8 @@ I build the business systems companies run on every day —<br/>
 
 ### 🌍 Open source
 
+- **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — the most downloaded PHP date library (750M+ installs)<br/>
+  Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, and a stray space in `ar_AE` · [#3386](https://github.com/briannesbitt/Carbon/pull/3386)
 - **[Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri)** — Hijri (Islamic) calendar integration for Laravel<br/>
   Added the `AsHijri` Eloquent cast · [#3](https://github.com/Pharaonic/laravel-hijri/pull/3)
 - **[Pharaonic/php-rss](https://github.com/Pharaonic/php-rss)** — dependency-free RSS 2.0 feed generator for PHP<br/>
