@@ -21,7 +21,7 @@ I build the business systems companies run on every day —<br/>
 - 💼 Software engineer at **[Winch](https://winch.sa/ar/)**, based in Palestine
 - 🧾 I work where the numbers have to add up — ledgers, invoices, subscriptions, schedules, and the reports built on top of them
 - 🚀 **1,500+ merged pull requests** across production SaaS codebases since 2021
-- 🌍 Open-source contributor to **[Carbon](https://github.com/briannesbitt/Carbon)**, PHP's most downloaded date library, and the Laravel ecosystem
+- 🌍 Open-source contributor to **[Carbon](https://github.com/briannesbitt/Carbon)**, PHP's most downloaded date library, and to **[Spatie](https://github.com/spatie)** packages for Laravel
 - 🌐 Arabic & English · RTL-first interfaces
 
 ### 🏗️ What I build
@@ -61,10 +61,14 @@ I build the business systems companies run on every day —<br/>
 
 ### 🌍 Open source
 
-- **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — the most downloaded PHP date library (750M+ installs)<br/>
-  Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, and a stray space in `ar_AE` · [#3386](https://github.com/briannesbitt/Carbon/pull/3386)
+- **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — the most downloaded PHP date library (750M+ installs) · listed among its [translators](https://carbonphp.github.io/carbon/develop/translations/translators.html)<br/>
+  Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, a stray space in `ar_AE`, and parsing of «غداً» (tomorrow) in all 30 Arabic locales · [#3386](https://github.com/briannesbitt/Carbon/pull/3386) · [#3388](https://github.com/briannesbitt/Carbon/pull/3388) · shipped in 3.15.0
+- **[spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder)** — build Eloquent queries from API requests (36M+ installs)<br/>
+  Fixed dynamic operator filters cutting the first character off values that contain `=`, such as Base64 strings and URLs · [#1072](https://github.com/spatie/laravel-query-builder/pull/1072) · shipped in 7.3.6
+- **[spatie/holidays](https://github.com/spatie/holidays)** — public holiday calculator for PHP<br/>
+  Added Saudi Arabia: the statutory holidays under the Labor Law, with Eid dates from the Umm al-Qura calendar (2020–2037) · [#347](https://github.com/spatie/holidays/pull/347) · shipped in 2.6.0
 - **[Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri)** — Hijri (Islamic) calendar integration for Laravel<br/>
-  Added the `AsHijri` Eloquent cast · [#3](https://github.com/Pharaonic/laravel-hijri/pull/3)
+  Added the `AsHijri` Eloquent cast · [#3](https://github.com/Pharaonic/laravel-hijri/pull/3) · shipped in 13.1.0
 - **[Pharaonic/php-rss](https://github.com/Pharaonic/php-rss)** — dependency-free RSS 2.0 feed generator for PHP<br/>
   Added getters to `Atom\Link`, `Media\Content` and `Media\Thumbnail`, shipped to every maintained release line (8.0 → 8.5) · [#4 – #9](https://github.com/Pharaonic/php-rss/pulls?q=is%3Apr+author%3A123mousab)
 
