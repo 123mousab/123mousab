@@ -62,7 +62,7 @@ I build the business systems companies run on every day —<br/>
 ### 🌍 Open source
 
 - **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — the most downloaded PHP date library (750M+ installs) · listed among its [translators](https://carbonphp.github.io/carbon/develop/translations/translators.html)<br/>
-  Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, a stray space in `ar_AE`, and parsing of «غداً» (tomorrow) in all 30 Arabic locales · [#3386](https://github.com/briannesbitt/Carbon/pull/3386) · [#3388](https://github.com/briannesbitt/Carbon/pull/3388) · shipped in 3.15.0
+  Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, a stray space in `ar_AE`, parsing of «غداً» (tomorrow) in all 30 Arabic locales, and plural forms above 100 («103 سنوات») · [#3386](https://github.com/briannesbitt/Carbon/pull/3386) · [#3388](https://github.com/briannesbitt/Carbon/pull/3388) (shipped in 3.15.0) · [#3397](https://github.com/briannesbitt/Carbon/pull/3397)
 - **[spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder)** — build Eloquent queries from API requests (36M+ installs)<br/>
   Fixed dynamic operator filters cutting the first character off values that contain `=`, such as Base64 strings and URLs · [#1072](https://github.com/spatie/laravel-query-builder/pull/1072) · shipped in 7.3.6
 - **[spatie/holidays](https://github.com/spatie/holidays)** — public holiday calculator for PHP<br/>
