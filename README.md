@@ -21,7 +21,7 @@ I build the business systems companies run on every day —<br/>
 - 💼 Software engineer at **[Winch](https://winch.sa/ar/)**, based in Palestine
 - 🧾 I work where the numbers have to add up — ledgers, invoices, subscriptions, schedules, and the reports built on top of them
 - 🚀 **1,500+ merged pull requests** across production SaaS codebases since 2021
-- 🌍 Open-source contributor to **[Carbon](https://github.com/briannesbitt/Carbon)**, PHP's most downloaded date library, and to **[Spatie](https://github.com/spatie)** packages for Laravel
+- 🌍 Open-source contributor to the official **[Laravel](https://github.com/laravel)** documentation, **[Carbon](https://github.com/briannesbitt/Carbon)**, PHP's most downloaded date library, and **[Spatie](https://github.com/spatie)** packages for Laravel
 - 🌐 Arabic & English · RTL-first interfaces
 
 ### 🏗️ What I build
@@ -61,6 +61,8 @@ I build the business systems companies run on every day —<br/>
 
 ### 🌍 Open source
 
+- **[laravel/docs](https://github.com/laravel/docs)** — the official Laravel documentation<br/>
+  Corrected the AI SDK docs on what a streamed parent agent's response includes from its sub-agents, and documented how to track a sub-agent's usage through the `AgentStreamed` event · [#11445](https://github.com/laravel/docs/pull/11445) · merged by Taylor Otwell
 - **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — the most downloaded PHP date library (750M+ installs) · listed among its [translators](https://carbonphp.github.io/carbon/develop/translations/translators.html)<br/>
   Fixed the Arabic locales: a crash in `ar_LY` for counts of 100–102, Moroccan month names in `ar_KW`, the dual form in recurrences, a stray space in `ar_AE`, parsing of «غداً» (tomorrow) in all 30 Arabic locales, and plural forms above 100 («103 سنوات») · [#3386](https://github.com/briannesbitt/Carbon/pull/3386) · [#3388](https://github.com/briannesbitt/Carbon/pull/3388) (shipped in 3.15.0) · [#3397](https://github.com/briannesbitt/Carbon/pull/3397)
 - **[spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder)** — build Eloquent queries from API requests (36M+ installs)<br/>
